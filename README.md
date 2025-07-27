@@ -1,4 +1,6 @@
 # Egocentric Action-aware Inertial Localization in Point Clouds
 
-https://github.com/user-attachments/assets/f3daab81-03dd-49db-a0ab-7aadd2d72745
+https://arxiv.org/abs/2505.14346
+
+https://github.com/user-attachments/assets/215fa03d-6d10-42b6-8be9-5bc6bf14cafd
 
